@@ -1,5 +1,13 @@
 # Proxy-Chameleon
-Automatic proxy rotation
+
+https://www.elitepvpers.com/forum/coding-releases/5369709-proxy-chameleon.html
+
+
+
+
+
+
+
 
 Search Proxys , Check Proxys and Use Proxys
 
